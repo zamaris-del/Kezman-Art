@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "Kezman Paints — Premium Painting, Interiors & Stamped Floors | Lagos",
   description: "Kezman Paints — Premium painting, luxury interiors, stamped floors and Kezman Emulsion Paint. Lagos, Abeokuta, Nigeria.",
@@ -12,4 +14,4 @@ export default function RootLayout({ children }) {
       <body className="font-sans antialiased">{children}</body>
     </html>
   );
-    }
+}
