@@ -10,3 +10,62 @@ export const projects = [
   { id: 7, title: "Kezman Project 7", tag: "Exterior Painting", loc: "Lagos", paint: "Kezman Emulsion", colour: "Premium Finish", years: "10-20 Yrs", desc: "Another completed Kezman project — neat, durable and beautiful.", img: "/project-7.jpg" },
   { id: 8, title: "Kezman Project 8", tag: "Exterior Painting", loc: "Lagos", paint: "Kezman Emulsion", colour: "Premium Finish", years: "10-20 Yrs", desc: "Another completed Kezman project — neat, durable and beautiful.", img: "/project-8.jpg" },
 ];
+
+export const videos = [
+  {
+    id: 1,
+    title: "Before & After - Old House Transformed to Yellow & Brown by Kezman",
+    loc: "Before & After • Best Seller",
+    desc: "Old, dirty, cracked house turned to brand new. This is why clients trust Kezman.",
+    src: "/videos/video-9-before-after.mp4",
+  },
+  {
+    id: 2,
+    title: "Hotel Fence Painting - Confidence Hotel Commercial Project by Kezman",
+    loc: "Commercial • Hotel Project",
+    desc: "Kezman team on site painting fence for a big hotel. We handle hotels, schools and estates.",
+    src: "/videos/video-13-hotel.mp4",
+  },
+  {
+    id: 3,
+    title: "Luxury Living Room - Black Fluted TV Wall + Marble + LED Lights by Kezman",
+    loc: "Luxury Interior • Lekki Style",
+    desc: "Black fluted panel, white marble, floating console and LED ceiling. Luxury finishing.",
+    src: "/videos/video-12-luxury-tv-wall.mp4",
+  },
+  {
+    id: 4,
+    title: "Designer Stamped Floor - Black & Red Compound Floor by Kezman",
+    loc: "Stamped Floor • Compound Finishing",
+    desc: "Black & Red stamped floor with sharp pattern. Strong, shining, easy to clean. No more sand and mud for your compound.",
+    src: "/videos/video-11-designer-floor.mp4",
+  },
+  {
+    id: 5,
+    title: "Modern Bungalow - Grey & White Exterior + Fence by Kezman",
+    loc: "Exterior • Bungalow",
+    desc: "Grey, white and stone cladding. Clean, premium exterior that makes neighbours look.",
+    src: "/videos/video-4-bungalow.mp4",
+  },
+  {
+    id: 6,
+    title: "Church Painting - Yellow, Brown & Grey Exterior by Kezman",
+    loc: "Church • Community Project",
+    desc: "Full church painted with care and respect. Churches, mosques and schools trust us.",
+    src: "/videos/video-8-church.mp4",
+  },
+  {
+    id: 7,
+    title: "Modern Apartment Interior - Marble Floor, Mirror Wall & Office by Kezman",
+    loc: "Interior • Apartment & Office",
+    desc: "White and gold marble floor, mirror wall, wood panel, LED ceiling. Perfect for flats, Airbnb, and offices wey need class.",
+    src: "/videos/video-7-modern-interior.mp4",
+  },
+  {
+    id: 8,
+    title: "Luxury Duplex Interior Tour - Marble, Chandelier & Master Bedroom by Kezman",
+    loc: "Luxury Interior • Duplex Tour",
+    desc: "Full tour of luxury duplex. Marble wall, bubble chandelier, master bedroom with walk-in closet, LED ceilings. This na the level Kezman dey do.",
+    src: "/videos/video-2-luxury-duplex.mp4",
+  },
+];
