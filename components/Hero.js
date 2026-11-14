@@ -1,7 +1,7 @@
 import { WHATSAPP } from "../data/projects";
 export default function Hero() {
   return (
-    <section className="relative text-white overflow-hidden" style={{ background: "linear-gradient(90deg, rgba(15,30,46,.92), rgba(15,30,46,.65)), url('/images/project18.jpg')", backgroundSize: "cover", backgroundPosition: "center" }}>
+    <section className="relative text-white overflow-hidden" style={{ background: "linear-gradient(90deg, rgba(15,30,46,.92), rgba(15,30,46,.65)), url('/hero.jpg')", backgroundSize: "cover", backgroundPosition: "center" }}>
       <div className="max-w-[1180px] mx-auto px-5 py-[78px]">
         <p className="tracking-[3px] text-[12px] font-bold text-gold">PREMIUM PAINTING • INTERIORS • STAMPED FLOORS</p>
         <h1 className="font-serif text-[42px] md:text-[52px] leading-[1.1] max-w-[700px] my-4 text-white">We Make Buildings Look <span className="text-gold">Expensive, Clean & Timeless.</span></h1>
