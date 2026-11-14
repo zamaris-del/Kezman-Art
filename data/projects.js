@@ -23,7 +23,7 @@ export const videos = [
   },
   {
     id: 2,
-    title: "Hotel Fence Painting - Confidence Hotel Commercial Project by Kezman",
+    title: "Hotel Fence Painting - Conference Hotel Commercial Project by Kezman",
     loc: "Commercial • Hotel Project",
     desc: "Kezman team on site painting fence for a big hotel. We handle hotels, schools and estates.",
     src: "/videos/video-13-hotel.mp4",
